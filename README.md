@@ -1,2 +1,2 @@
-# C++ GAMES
+# C++ GAMES Examples
 
