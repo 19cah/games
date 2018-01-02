@@ -6,7 +6,7 @@
 - [Snake]()
 - [Minesweeper]()
 - [Fifteen-Puzzle]()
-- [Racing(Top Down)]
+- [Racing(Top Down)]()
 - [Outrun]
 - [Xonix]
 - [Bejeweled]
