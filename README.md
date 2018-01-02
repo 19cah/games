@@ -7,7 +7,7 @@
 - [Minesweeper]()
 - [Fifteen-Puzzle]()
 - [Racing(Top Down)]()
-- [Outrun]
+- [Outrun]()
 - [Xonix]()
 - [Bejeweled]
 - [NetWalk (Pipe Puzzle)]
