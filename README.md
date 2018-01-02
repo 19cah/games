@@ -9,7 +9,7 @@
 - [Racing(Top Down)]
 - [Outrun]
 - [Xonix]
-- Bejeweled
+- [Bejeweled]
 - NetWalk (Pipe Puzzle)
 - Mahjong Solitaire
 - Tron
