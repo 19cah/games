@@ -11,7 +11,7 @@
 - [Xonix]
 - [Bejeweled]
 - [NetWalk (Pipe Puzzle)]
-- Mahjong Solitaire
+- [Mahjong Solitaire]
 - Tron
 - Chess
 - Volleyball
