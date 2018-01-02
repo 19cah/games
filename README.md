@@ -11,8 +11,8 @@
 - [Xonix]()
 - [Bejeweled]()
 - [NetWalk (Pipe Puzzle)]()
-- [Mahjong Solitaire]
+- [Mahjong Solitaire]()
 - [Tron]()
-- [Chess]
-- [Volleyball]
-- [Asteroids]
+- [Chess]()
+- [Volleyball]()
+- [Asteroids]()
