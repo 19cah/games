@@ -10,7 +10,7 @@
 - [Outrun]
 - [Xonix]
 - [Bejeweled]
-- NetWalk (Pipe Puzzle)
+- [NetWalk (Pipe Puzzle)]
 - Mahjong Solitaire
 - Tron
 - Chess
