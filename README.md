@@ -4,7 +4,7 @@
 - [Doodle Jump]()
 - [Arkanoid]()
 - [Snake]()
-- [Minesweeper]
+- [Minesweeper]()
 - [Fifteen-Puzzle]
 - [Racing(Top Down)]
 - [Outrun]
