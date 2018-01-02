@@ -7,3 +7,4 @@
 - Minesweeper
 - Fifteen-Puzzle
 - Racing(Top Down)
+- Outrun
