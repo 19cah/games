@@ -13,6 +13,6 @@
 - [NetWalk (Pipe Puzzle)]
 - [Mahjong Solitaire]
 - [Tron]
-- Chess
+- [Chess]
 - Volleyball
 - Asteroids
