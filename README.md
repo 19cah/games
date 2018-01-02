@@ -3,7 +3,7 @@
 - [Tetris]()
 - [Doodle Jump]()
 - [Arkanoid]
-- [Snake]
+- [Snake]()
 - [Minesweeper]
 - [Fifteen-Puzzle]
 - [Racing(Top Down)]
