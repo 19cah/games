@@ -1,8 +1,8 @@
 # C++ GAMES
 
-- Tetris
-- Doodle Jump
-- Arkanoid
+- [Tetris]
+- [Doodle Jump]
+- [Arkanoid]
 - Snake
 - Minesweeper
 - Fifteen-Puzzle
