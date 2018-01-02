@@ -12,3 +12,4 @@
 - Bejeweled
 - NetWalk (Pipe Puzzle)
 - Mahjong Solitaire
+- Tron
