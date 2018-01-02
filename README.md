@@ -12,7 +12,7 @@
 - [Bejeweled]
 - [NetWalk (Pipe Puzzle)]
 - [Mahjong Solitaire]
-- Tron
+- [Tron]
 - Chess
 - Volleyball
 - Asteroids
