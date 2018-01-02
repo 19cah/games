@@ -15,3 +15,4 @@
 - Tron
 - Chess
 - Volleyball
+- Asteroids
