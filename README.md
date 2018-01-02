@@ -11,3 +11,4 @@
 - Xonix
 - Bejeweled
 - NetWalk (Pipe Puzzle)
+- Mahjong Solitaire
