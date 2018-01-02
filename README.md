@@ -1,7 +1,7 @@
 # C++ GAMES
 
 - [Tetris]()
-- [Doodle Jump]
+- [Doodle Jump]()
 - [Arkanoid]
 - [Snake]
 - [Minesweeper]
