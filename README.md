@@ -8,3 +8,4 @@
 - Fifteen-Puzzle
 - Racing(Top Down)
 - Outrun
+- Xonix
