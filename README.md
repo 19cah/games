@@ -9,3 +9,4 @@
 - Racing(Top Down)
 - Outrun
 - Xonix
+- Bejeweled
