@@ -10,3 +10,4 @@
 - Outrun
 - Xonix
 - Bejeweled
+- NetWalk (Pipe Puzzle)
