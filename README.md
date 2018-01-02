@@ -5,7 +5,7 @@
 - [Arkanoid]()
 - [Snake]()
 - [Minesweeper]()
-- [Fifteen-Puzzle]
+- [Fifteen-Puzzle]()
 - [Racing(Top Down)]
 - [Outrun]
 - [Xonix]
