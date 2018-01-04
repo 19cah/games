@@ -1,6 +1,6 @@
 # C++ GAMES
 
-- [Tetris](01-tetris)
+- [Tetris](01%20Tetris)
 - [Doodle Jump]()
 - [Arkanoid]()
 - [Snake]()
