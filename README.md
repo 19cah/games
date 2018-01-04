@@ -3,7 +3,7 @@
 - [Tetris](01%20Tetris)
 - [Doodle Jump](02%20Doodle%20Jump)
 - [Arkanoid](Arkanoid)
-- [Snake]()
+- [Snake](Snake)
 - [Minesweeper]()
 - [Fifteen-Puzzle]()
 - [Racing(Top Down)]()
